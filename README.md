@@ -2,7 +2,7 @@
 
 
 
-## Tecnologias sugeridaspara a construção dos projetos
+## Tecnologias sugeridas para a construção dos projetos
 1. [Poetry](https://www.poetry.com/) (instalação de pacotes)
 2. [Flask](https://flask.palletsprojects.com/en/1.1.x/) (aplicação backend)
 3. [Dinaconf](https://www.dynaconf.com/) (configuração de ambiente)
