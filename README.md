@@ -115,7 +115,7 @@
 ----
 ----
 
-## __Nome__: LMS: 
+## __Nome__: LMS: Garden Learning
 Tenologias e features disponíveis no [Repositório Garden Learning](https://github.com/Garden-Projects/garden_learning)
 
 
