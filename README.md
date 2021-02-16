@@ -1,5 +1,7 @@
 # 30 Dias de Flask [DEV Zone](https://github.com/Garden-Projects/30-Dias-de-Flask)
 
+### Deixe uma ⭐ neste repositório!😉
+
 
 ## Objetivo
 Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforçando o seu portfolio em Python e também em front-end.
