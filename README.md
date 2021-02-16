@@ -1,8 +1,23 @@
-# Projetos
+# 30 Dias de Flask [DEV Zone](https://github.com/Garden-Projects/30-Dias-de-Flask)
 
 
+## Objetivo
+Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforção o seu portfolio em Python e também em front-end.
+----
+----
+
+## Quer conversar ou trocar ideia?
+Temos um [servidor no discord](https://discord.gg/UVbHSHV4), você será bem vindo e continuará sendo querido se respeitar as outras pessoas.
+----
+----
+
+## Alguém me dá um suporte?
+O suporte é o seu networking. Conte com seus amigos e colegas sempre! 
+----
+----
 
 ## Tecnologias sugeridas para a construção dos projetos
+
 1. [Poetry](https://www.poetry.com/) (instalação de pacotes)
 2. [Flask](https://flask.palletsprojects.com/en/1.1.x/) (aplicação backend)
 3. [Dinaconf](https://www.dynaconf.com/) (configuração de ambiente)
@@ -49,11 +64,10 @@
    - Inserir informações pessoais com bio 
    - Mudar informações pessoais 
    - Seguir outros perfis 
-
 ----
 ----
 
-## __Nome__: Harry Potter IO
+### __Nome__: Harry Potter IO
 1. Flask
 2. Flask Socket IO
 3. Flask SQLAlchemy
@@ -61,7 +75,7 @@
 5. Click
 6. Psychopg 2
 ----
-### Features
+#### Features
 - Autenticação
     - Criação da conta
     - Entrar na conta
@@ -95,17 +109,17 @@
 ----
 ----
 
-## __Nome__: O Susto
+### __Nome__: O Susto
 - Flask
 - Flask MQTT
 - Flask JWT
 - React JS
 
-### Componentes
+#### Componentes
 - Module ESP 32
 - Relay
 
-### Features
+#### Features
 - Autenticação
 - Registrar lâmpada
 - Deletar lâmpada
@@ -115,7 +129,11 @@
 ----
 ----
 
-## __Nome__: LMS: Garden Learning
+### __Nome__: LMS: Garden Learning
 Tenologias e features disponíveis no [Repositório Garden Learning](https://github.com/Garden-Projects/garden_learning)
+----
+----
 
+## Importante
+Não nos responsabilizamos por nenhum fato, ação, insinuação, intenção e consequências de pessoas que estejam envolvidas com este projeto ou que venham a estar no servidor do Discord. Ao fazer parte e se engajar, você estará automaticamente concordando que qualquer ação advinda de você é de sua própria e inteira responsabilidade, assim como que as ações de outrem são de responsabilidade total dele mesmo, o indivíduo.
 
