@@ -2,7 +2,7 @@
 
 
 ## Objetivo
-Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforção o seu portfolio em Python e também em front-end.
+Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforçando o seu portfolio em Python e também em front-end.
 
 ----
 ----
