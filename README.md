@@ -3,16 +3,19 @@
 
 ## Objetivo
 Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforção o seu portfolio em Python e também em front-end.
+
 ----
 ----
 
 ## Quer conversar ou trocar ideia?
 Temos um [servidor no discord](https://discord.gg/UVbHSHV4), você será bem vindo e continuará sendo querido se respeitar as outras pessoas.
+
 ----
 ----
 
 ## Alguém me dá um suporte?
 O suporte é o seu networking. Conte com seus amigos e colegas sempre! 
+
 ----
 ----
 
@@ -40,8 +43,10 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
     * [SMTP](https://hub.docker.com/r/mailhog/mailhog)
     * [Redis](https://hub.docker.com/_/redis/)
     * [MySQL](https://hub.docker.com/_/mysql/)
+
 ----
 ----
+
 ## __Nome__: Blog
 ----
 ### Features
@@ -64,6 +69,7 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
    - Inserir informações pessoais com bio 
    - Mudar informações pessoais 
    - Seguir outros perfis 
+
 ----
 ----
 
@@ -131,6 +137,7 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
 
 ### __Nome__: LMS: Garden Learning
 Tenologias e features disponíveis no [Repositório Garden Learning](https://github.com/Garden-Projects/garden_learning)
+
 ----
 ----
 
