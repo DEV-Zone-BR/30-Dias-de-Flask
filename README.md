@@ -4,7 +4,7 @@
 
 ### Como começar no hype?
 
-* __Poste no seu Linkedin que você está começando o desafio__ !!!
+* __Poste no seu Linkedin que você está começando o desafio__!!! (já explico)
 * Convide outras pessoas para participarem também
 * Se possível faça junto à alguma outra pessoa
 * Se quiser, pode entrar no Discord também
