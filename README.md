@@ -2,6 +2,14 @@
 
 ### Deixe uma ⭐ neste repositório!😉
 
+### Como começar no hype?
+
+* __Poste no seu Linkedin que você está começando o desafio__ !!!
+* Convide outras pessoas para participarem também
+* Se possível faça junto à alguma outra pessoa
+* Se quiser, pode entrar no Discord também
+
+Uma das coisas mais importantes ter motivação, e contar para outras pessoas que está investindo tempo em algo é excelente para firmar esse desafio!
 
 ## Objetivo
 Você aprender Flask e praticar Python de uma forma divertida, em comunidade e reforçando o seu portfolio em Python e também em front-end.
@@ -10,7 +18,7 @@ Você aprender Flask e praticar Python de uma forma divertida, em comunidade e r
 ----
 
 ## Quer conversar ou trocar ideia?
-Temos um [servidor no discord](https://discord.gg/UVbHSHV4), você será bem vindo e continuará sendo querido se respeitar as outras pessoas.
+Temos um [servidor no discord](https://discord.gg/bv8GRcrxks), você será bem vindo e continuará sendo querido se respeitar as outras pessoas.
 
 ----
 ----
