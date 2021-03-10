@@ -83,7 +83,7 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
 ----
 ----
 
-### __Nome__: Harry Potter IO
+## __Nome__: Harry Potter IO
 1. Flask
 2. Flask Socket IO
 3. Flask SQLAlchemy
@@ -91,7 +91,7 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
 5. Click
 6. Psychopg 2
 ----
-#### Features
+### Features
 - Autenticação
     - Criação da conta
     - Entrar na conta
@@ -125,17 +125,17 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
 ----
 ----
 
-### __Nome__: O Susto
+## __Nome__: O Susto
 - Flask
 - Flask MQTT
 - Flask JWT
 - React JS
 
-#### Componentes
+### Componentes
 - Module ESP 32
 - Relay
 
-#### Features
+### Features
 - Autenticação
 - Registrar lâmpada
 - Deletar lâmpada
@@ -145,7 +145,7 @@ O suporte é o seu networking. Conte com seus amigos e colegas sempre!
 ----
 ----
 
-### __Nome__: LMS: Garden Learning
+## __Nome__: LMS: Garden Learning
 Tenologias e features disponíveis no [Repositório Garden Learning](https://github.com/Garden-Projects/garden_learning)
 
 ----
